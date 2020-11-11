@@ -1,0 +1,24 @@
+{
+  "name": "verse-figma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDevScott/verse-figma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDevScott/verse-figma/issues"
+  },
+  "homepage": "https://github.com/WebDevScott/verse-figma#readme",
+  "dependencies": {
+    "foundation-sites": "^6.6.3",
+    "jquery": "^3.5.1"
+  }
+}

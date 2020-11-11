@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-GB
+name: 'Verse Figma Demo'
+primary: true
+siteGroup: 6cd4987e-053f-43bb-822c-5ce7a19699df
+sortOrder: 1

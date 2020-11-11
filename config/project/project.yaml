@@ -1,0 +1,17 @@
+dateModified: 1605049806
+email:
+  fromEmail: scottgardner.dev@gmail.com
+  fromName: 'Verse Figma Demo'
+  transportType: craft\mail\transportadapters\Sendmail
+system:
+  edition: solo
+  live: true
+  name: 'Verse Figma Demo'
+  schemaVersion: 3.5.13
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
